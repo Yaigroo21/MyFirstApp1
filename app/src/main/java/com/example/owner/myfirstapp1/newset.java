@@ -2,12 +2,16 @@ package com.example.owner.myfirstapp1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.TextView;
 
-public class SecondActivity extends AppCompatActivity {
+import org.w3c.dom.Text;
+
+public class newset extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_second);
+        setContentView(R.layout.activity_newset);
+
     }
 }
