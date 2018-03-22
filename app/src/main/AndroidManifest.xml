@@ -22,10 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SecondActivity" />
+        <activity android:name=".Sets" />
         <activity android:name=".Settings" />
-        <activity android:name=".Create" />
-        <activity android:name=".SampleCode"></activity>
+        <activity android:name=".newset"></activity>
     </application>
 
 </manifest>
